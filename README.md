@@ -8,7 +8,7 @@ Elster as Jack of Spades
 
 
 
-### INSTALLATION
+## INSTALLATION
 
 Requires 7-Zip, afaik WinRAR will not work
 
@@ -19,34 +19,32 @@ Requires 7-Zip, afaik WinRAR will not work
 
 3) Drag the "resources" folder into the 7-Zip folder
 
-#### LINUX INSTALLATION
+### LINUX INSTALLATION
 
-Easy Method:
+#### Easy Method:
 
-1) Copy Signalis Skins for Balatro V1.zip and linux-install.sh into the Balatro folder (by default it should be in /home/\[username\]/.steam/steam/steamapps/common/Balatro/)
+1. Copy Signalis Skins for Balatro V1.zip and linux-install.sh into the Balatro folder (by default it should be in /home/\[username\]/.steam/steam/steamapps/common/Balatro/)
 
-2) Run linux-install.sh
+2. Run linux-install.sh
 
-Manual Method
+#### Manual Method
 
-1) Extract the resources folder from the zip file
+1. Extract the resources folder from the zip file
 
-2) Place it in the same folder as your Balatro.exe
+2. Place it in the same folder as your Balatro.exe
 
-3) Run the following command:
+3. Run the following command:
 ```
 7z a Balatro.exe resources/* 
 ```
 
+## PLEASE FOLLOW ORIGINAL ARTISTS
 
-### PLEASE FOLLOW ORIGINAL ARTISTS
-
-spades face cards by twt@64suns
-
+[spades face cards](https://x.com/64suns/status/1870434549890695527) by [@64suns](https://x.com/64suns) on twitter
 
 
-### Notes
--if you already have a skin pack that replaces the Default poker card skins, this will delete your old pack.
--if you wish to use parts of both skin packs, you'll have to edit the 2x/8BitDeck.png texture yourself
--i probably won't update this pack
--Sesbian Lex
+## Notes
+- if you already have a skin pack that replaces the Default poker card skins, this will delete your old pack.
+- if you wish to use parts of both skin packs, you'll have to edit the 2x/8BitDeck.png texture yourself
+- i probably won't update this pack
+- Sesbian Lex
