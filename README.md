@@ -15,25 +15,20 @@ Requires 7-Zip, afaik WinRAR will not work
 
 1) Navigate to your installation of Balatro
 	(for steam, right click the game in your library list, go to Manage > Browse local files)
-
 2) Open Balatro.exe with 7-Zip as if it were a .zip
-
 3) Drag the "resources" folder into the 7-Zip folder
 
 ### LINUX INSTALLATION
 
 #### Easy Method:
 
-1. Copy Signalis Skins for Balatro V1.zip and linux-install.sh into the Balatro folder (by default it should be in /home/\[username\]/.steam/steam/steamapps/common/Balatro/)
-
+1. Copy Signalis Skins for Balatro V1.zip and linux-install.sh into the Balatro folder (for steam, right click the game in your library list, go to Manage > Browse local files)
 2. Run linux-install.sh
 
 #### Manual Method
 
 1. Extract the resources folder from the zip file
-
 2. Place it in the same folder as your Balatro.exe
-
 3. Run the following command:
 ```
 7z a Balatro.exe resources/* 
