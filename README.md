@@ -3,9 +3,10 @@ Replaces some Default face card skins with signalis characters
 ### SKINS
 
 Falke as King of Spades
-Ariane as Queen of Spades
-Elster as Jack of Spades
 
+Ariane as Queen of Spades
+
+Elster as Jack of Spades
 
 
 ## INSTALLATION
